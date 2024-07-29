@@ -5,12 +5,12 @@ updates:
   schedule:
     interval: daily
     time: "08:00"
-    timezone: Asia/Shanghai
+    timezone: Europe/Brussels
   open-pull-requests-limit: 10
 - package-ecosystem: gomod
   directory: "/proxy"
   schedule:
     interval: daily
     time: "08:00"
-    timezone: Asia/Shanghai
+    timezone: Europe/Brussels
   open-pull-requests-limit: 10
